@@ -55,10 +55,36 @@
     z-index: 100;
 }
 
+.text-center * {
+    text-align: center;
+    margin: 0 auto;
+    display: block;
+}
+
+.slide.text-center h2 {
+    margin-bottom: 0px;
+}
+
+.subtitle {
+    margin-bottom: 15px;
+    font-size: 30px;
+}
+
+.copyright a {
+    font-size: 7pt;
+    color: #999;
+    text-decoration: none;
+    background: none;
+}
+
 .new-code {
     background-color: #fdffca;
     display: inline-block;
     margin: 0 -8px;
     padding: 0 8px;
     border-radius: 10px;
+}
+
+.slide {
+    padding: 70px 100px 0;
 }
