@@ -1,4 +1,4 @@
-# WarsawJS Presentation: Single-page application loading time optimization. Powered by wWebpack, React, Node.js and isomorphic-style-loader
+# WarsawJS Presentation: Single-page application loading time optimization. Powered by Webpack, React, Node.js and isomorphic-style-loader
 
 ![Logo](/pictures/logo/warsawjs-logo-light.png)
 
