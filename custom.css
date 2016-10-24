@@ -100,5 +100,14 @@
 
 .slide.times .title-slide {
     position: absolute;
-    margin-top: 30px;
+    margin-top: 15px;
+}
+
+.stage {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    padding: 15px 30px 30px;
+    color: white;
+    background-color: #f7302f;
 }
