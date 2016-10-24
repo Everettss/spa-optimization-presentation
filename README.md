@@ -1,11 +1,12 @@
-# WarsawJS Slides: Template
+# WarsawJS Presentation: Single-page application loading time optimization. Powered by wWebpack, React, Node.js and isomorphic-style-loader
 
 ![Logo](/pictures/logo/warsawjs-logo-light.png)
 
 ---
 
-JavaScript Yellow Color: `#f0db4f`
-WarsawJS Red Color: `#f7302f`
+ - jak skonfigurować code splitting oraz co dzięki niemu zyskujemy
+ - jak server side rendering umożliwi pozbycie się z ekranu napisu "Loading"
+ - jak za pomogą izomorficznego loadera styli możemy z łatwością wyrenderować krytyczny CSS
 
 ---
 
