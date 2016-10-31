@@ -4,9 +4,9 @@
 
 ---
 
- - jak skonfigurować code splitting oraz co dzięki niemu zyskujemy
- - jak server side rendering umożliwi pozbycie się z ekranu napisu "Loading"
- - jak za pomogą izomorficznego loadera styli możemy z łatwością wyrenderować krytyczny CSS
+ - how to configure code splitting
+ - how server side rendering allow us to remove "Loading" text from the screen
+ - how isomorphic-style-loader allow us render critical CSS
 
 ---
 
